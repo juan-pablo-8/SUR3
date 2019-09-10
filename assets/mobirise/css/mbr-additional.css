@@ -411,9 +411,28 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#msg-box8-d .mbr-section-title,
+#msg-box8-d p {
+  color: #fff;
+}
+#msg-box8-d .lead P {
+  text-align: left;
+}
+#social-buttons2-j .mbr-section-title,
+#social-buttons2-j .btn-social {
+  color: #232323;
+}
 #features3-a P {
   text-align: right;
 }
 #features3-9 P {
   text-align: right;
+}
+#social-buttons2-n .mbr-section-title,
+#social-buttons2-n .btn-social {
+  color: #232323;
+}
+#social-buttons2-o .mbr-section-title,
+#social-buttons2-o .btn-social {
+  color: #232323;
 }
