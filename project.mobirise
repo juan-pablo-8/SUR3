@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gastronomia.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 76,
+    "uniqCompNum": 79,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -64,7 +64,7 @@
           },
           "title": "PUBLINET",
           "text": "Anuncie em nuestra web y sea visto por miles de personas",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/5491170260001?text=Me%20interesa%20anunciar%20en%20tu%20sitio%20WEB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 2266-9965</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"mailto:publinet@yahoo.com.ar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">publinet@yahoo.com.ar</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/5491170260001?text=Me%20interesa%20anunciar%20en%20tu%20sitio%20WEB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 2266-9965</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 4323-3432</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"mailto:publinet@yahoo.com.ar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">publinet@yahoo.com.ar</a>"
         },
         {
           "_inherit": "menu",
@@ -176,12 +176,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-13",
+          "_anchor": "features3-24",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -206,23 +201,23 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banner-cultura-educacin-idiomas-institutos-particulares-600x136.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
+              "alt": "",
+              "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banner-comercios-fumigaciones-1-600x136.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -232,20 +227,16 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title3": "Web Fonts",
@@ -294,12 +285,7 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-15",
+          "_anchor": "features3-25",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -324,23 +310,23 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banner-profesionales-alquiler-de-consultorios-y-oficinas-600x136.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
+              "alt": "",
+              "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banner-comercios-belleza-esttica-spa-600x136.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -350,20 +336,16 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
           "title3": "Web Fonts",
@@ -412,15 +394,10 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-16",
+          "_anchor": "features3-26",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -442,23 +419,23 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banner-profesionales-psicologa-atencin-psicolgica-lic-daniel-mosquera-600x136.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
+              "alt": "",
+              "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banner-salud-servicios-odontologa-ortodoncia-600x136.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -468,846 +445,16 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-17",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-18",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-19",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-1a",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-1b",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-1c",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "features3-1d",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "2",
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-413cccc9-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Estudio Contable",
-              "title": "Alberto Gomez",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Alberto Gómez",
-          "subtitle1": "Contador Público&nbsp;",
-          "caption1": "&nbsp;Boedo 236 1° Piso of 1B (Gal. Nazmi) | Alvear 1076 Lomas de Zamora<br>(011) 4242-7468 / (011) 15-3113-1694<br>1131131694<br>luisgomezyasociados@gmail.com<br>www.lomasimpositivo.com.ar<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sin-ttulo-1fff-600x600.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Mascheroni &amp; Asoc",
-          "subtitle2": "Estudio Contable",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Loria 398, 2° Piso, Of. 4, Lomas de Zamora.</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">(011) 4243-0311</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Otro Tel.: (011) 15-6730-1395</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">estudiocontablemascheroni@gmail.com</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">http://www.estudiocontablemm.com.ar/</span><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-2-600x365.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
             }
           },
           "title3": "Web Fonts",
@@ -1884,6 +1031,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-22",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -1991,18 +1143,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1w",
           "_params": {
             "labelsColor": "#232323",
@@ -2048,12 +1200,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar Consulta</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar Consulta</a>"
         }
       ]
     }
