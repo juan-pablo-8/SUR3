@@ -634,12 +634,12 @@ h6,
 #ext_menu-1u .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box2-1y .mbr-section-title {
+#msg-box8-23 .mbr-section-title,
+#msg-box8-23 p {
   color: #fff;
 }
-#msg-box2-1y .mbr-section-subtitle {
-  color: #f7da64;
-  font-size: 24px;
+#features2-22 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
 #form1-1w .form-control-label {
   color: #232323;
