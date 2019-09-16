@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "SUR3",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 80,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -42,6 +44,14 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#f7da64",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
           "_anchor": "header4-d",
           "_params": {
             "parallax": true,
@@ -64,15 +74,7 @@
           },
           "title": "PUBLINET",
           "text": "PUBLICITE Y SEA VISTO POR MILES DE PERSONAS....",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/5491170260001?text=Me%20interesa%20anunciar%20en%20tu%20sitio%20WEB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 2266-9965</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 4323-3432</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"mailto:publinet@yahoo.com.ar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">publinet@yahoo.com.ar</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left",
-              "color": "#f7da64",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/5491170260001?text=Me%20interesa%20anunciar%20en%20tu%20sitio%20WEB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 2266-9965</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 4323-3432</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"mailto:publinet@yahoo.com.ar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">publinet@yahoo.com.ar</a>"
         },
         {
           "_inherit": "menu",
@@ -157,7 +159,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-left mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 175, 64);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PROFESIONALES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Abogados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contadores&nbsp;Públicos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Psicología</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Constructoras</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SALUD / SERVICIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clínicas / Centros Médicos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Geriátricos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Odontología-Ortodoncia</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PROFESIONALES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Abogados</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contadores&nbsp;Públicos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Psicología</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Constructoras</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SALUD / SERVICIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clínicas / Centros Médicos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Geriátricos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Odontología-Ortodoncia</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_tags": [
@@ -209,7 +211,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-servicios-para-fiestas-salones-de-fiestas-600x136.png",
+              "src": "@PROJECT_PATH@/assets/images/banner-600x136.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
