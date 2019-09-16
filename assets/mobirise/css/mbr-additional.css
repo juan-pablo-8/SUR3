@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -51,6 +52,12 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -408,8 +415,10 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#header4-d .mbr-section-lead {
+  text-align: left;
+  color: #f7da64;
+  font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;

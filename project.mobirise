@@ -15,14 +15,14 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": true
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -63,8 +63,16 @@
             "showButtons": true
           },
           "title": "PUBLINET",
-          "text": "Anuncie em nuestra web y sea visto por miles de personas",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/5491170260001?text=Me%20interesa%20anunciar%20en%20tu%20sitio%20WEB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 2266-9965</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 4323-3432</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"mailto:publinet@yahoo.com.ar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">publinet@yahoo.com.ar</a>"
+          "text": "PUBLICITE Y SEA VISTO POR MILES DE PERSONAS....",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://wa.me/5491170260001?text=Me%20interesa%20anunciar%20en%20tu%20sitio%20WEB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">11 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 2266-9965</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://wa.me/5491122669965\" data-toolbar=\"-mbrBtnMove\">11 4323-3432</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"mailto:publinet@yahoo.com.ar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">publinet@yahoo.com.ar</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#f7da64",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -201,7 +209,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-cultura-educacin-idiomas-institutos-particulares-600x136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/banner-servicios-para-fiestas-salones-de-fiestas-600x136.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
