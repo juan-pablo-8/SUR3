@@ -4,7 +4,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -415,10 +414,16 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-#header4-d .mbr-section-lead {
-  text-align: left;
+#msg-box7-3a .mbr-section-title,
+#msg-box7-3a .lead p {
+  color: #fff;
+}
+#msg-box7-3a P {
   color: #f7da64;
-  font-family: 'Montserrat', sans-serif;
+}
+#msg-box7-3a H3 {
+  color: #41a85f;
+  font-size: 80px;
 }
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
