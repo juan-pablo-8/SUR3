@@ -368,7 +368,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/laboratorio-laconi-2-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
