@@ -89,7 +89,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "@PROJECT_PATH@/assets/images/logo-1400x1237.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -105,8 +110,7 @@
               "link": "",
               "size": "",
               "color": "#7ac673",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "title": "PUBLINET",
