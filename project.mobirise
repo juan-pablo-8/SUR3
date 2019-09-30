@@ -101,36 +101,36 @@
               "font-size": "20px"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0c2745"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#123963!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#144070"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -141,26 +141,31 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#2969b0!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-w",
           "_params": {
-            "bgColor": "#144070",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
-            },
-            "fontColor": "#efefef",
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
             "logo": false,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -199,9 +204,9 @@
           "_name": "header3",
           "_anchor": "header3-3o",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#303030",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
             "showMeta": true
           },
           "title": "PUBLICITE Y SEA VISTO POR MILES DE PERSONAS...",
@@ -1559,9 +1564,9 @@
           "_name": "header3",
           "_anchor": "header3-3p",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#efefef",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
             "showMeta": true
           },
           "title": "PUBLINET&nbsp;",
