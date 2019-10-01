@@ -1246,7 +1246,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/berni-secarropas-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1262,7 +1262,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/plomero-torrez-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
