@@ -1355,7 +1355,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/murillo-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1371,7 +1371,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/dj-pasaje-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1464,7 +1464,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aire-aconcionado-alejandro-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/javier-martinez-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1480,7 +1480,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/azul-aluminio-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
