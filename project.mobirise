@@ -112,10 +112,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.65rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.787rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -140,7 +140,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#faaf40!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -156,7 +156,7 @@
           "_anchor": "ext_menu-w",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.65",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2782,10 +2782,10 @@
               "color": "#41a85f"
             },
             ".link": {
-              "font-size": "1.65rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.787rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2810,14 +2810,14 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#faaf40!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-3q",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "1.65",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#41a85f",
             "fontHoverColor": "@primaryColor",
@@ -2875,7 +2875,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#2b0680",
-              "font-size": "36px",
+              "font-size": "30px",
               "text-align": "center"
             },
             ".mbr-section-lead": {
