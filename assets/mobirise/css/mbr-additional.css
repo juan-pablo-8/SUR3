@@ -459,11 +459,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-w .link {
-  font-size: 1.65rem;
+  font-size: 1.2rem;
 }
 #ext_menu-w .dropdown-item,
 #ext_menu-w .nav-dropdown-sm .link {
-  font-size: 1.787rem;
+  font-size: 1.300rem;
 }
 #ext_menu-w .link:hover,
 #ext_menu-w .dropdown-item:hover,
