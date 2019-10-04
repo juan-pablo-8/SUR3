@@ -165,7 +165,7 @@
             "logo": false,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -182,7 +182,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_styles": {
@@ -1698,7 +1698,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_tags": [
@@ -2048,7 +2048,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_tags": [
@@ -2192,7 +2192,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_tags": [
@@ -2420,7 +2420,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_tags": [
@@ -2945,7 +2945,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -3471,7 +3471,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_tags": [
@@ -3742,38 +3742,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-59",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": false
-          },
-          "title": "ARQUITECTOS",
-          "caption": "\u001basasd"
-        },
-        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -3827,7 +3795,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-5a",
+          "_anchor": "ext_menu-5f",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.1",
@@ -3856,7 +3824,39 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-59",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "ARQUITECTOS",
+          "caption": "\u001basasd"
         },
         {
           "_tags": [
@@ -4241,7 +4241,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"comercios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COMERCIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-2.html\">Fumigaciones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gastronomia.html\">Gastronomía</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Cerrajerías Herrajes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ferreterias</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_tags": [
