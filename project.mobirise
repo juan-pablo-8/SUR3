@@ -182,7 +182,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"false\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_styles": {
@@ -2388,7 +2388,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"true\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"oficios.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OFICIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Reparaciones / Refrigeración</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"profesionales-3.html\">PLOMEROS/GASISTA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ELECTRICISTA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-3.html\" aria-expanded=\"false\">COMERCIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales-2.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
           "_styles": {
@@ -2444,7 +2444,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/redondo-1-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/abogados-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2460,7 +2460,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agrimensor-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/agrimensor-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2476,7 +2476,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/analisis-clinicos-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/analisis-clinicos-1-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2492,7 +2492,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/arquitectos-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/arquitectos-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2508,7 +2508,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/contadores-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/contadores-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2524,7 +2524,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dermatologos-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/dermatologos-1-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2569,7 +2569,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/enfermeria-1-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/enfermeria-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2585,7 +2585,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/escribanos-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/escribanos-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2601,7 +2601,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fonoaudiologa-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/fonoaudiologa-3-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2617,7 +2617,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gastroenterologo-1-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/gastroenterologo-3-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2633,7 +2633,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/geriatricos-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/geriatricos-1-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2649,7 +2649,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ingenieros-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/ingenieros-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2694,7 +2694,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kinesiologotraumatologo-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/kinesiologotraumatologo-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2710,7 +2710,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/masajistas-1-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/masajistas-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2726,7 +2726,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/medicinaprepaga-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/medicinaprepaga-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2742,7 +2742,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nutricionista-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/nutricionista-1-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2758,7 +2758,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/oculista-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/oculista-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2774,7 +2774,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/odontologoprotesista-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/odontologoprotesista-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2819,7 +2819,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/otorrino-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/otorrino-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2835,7 +2835,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pedicura-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/pedicura-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2851,7 +2851,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/personaltrainer-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/personaltrainer-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2867,7 +2867,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/psicologaspsiquiatras-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/psicologaspsiquiatras-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2883,7 +2883,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tarot-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/tarot-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2899,7 +2899,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/yogafloresdebachreiki-600x425.png",
+              "src": "@PROJECT_PATH@/assets/images/yogafloresdebachreiki-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
