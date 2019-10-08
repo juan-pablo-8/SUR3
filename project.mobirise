@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "comercios.html",
+    "currentPage": "oficios.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -2104,7 +2104,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aireacondicionado-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/aireacondicionado-1-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2120,7 +2120,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agrimensor-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/alarmasycamarasseguridad-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2136,7 +2136,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/analisis-clinicos-1-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/albail-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2152,7 +2152,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/arquitectos-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/atmosferico-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2168,7 +2168,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/contadores-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/carpintero-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2184,7 +2184,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dermatologos-1-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/cerrajero-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2229,7 +2229,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/enfermeria-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/chapa-y-pintura-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2245,7 +2245,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/escribanos-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/destapaciondecaerias-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2261,7 +2261,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fonoaudiologa-3-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/durlock-1-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2277,7 +2277,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gastroenterologo-3-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/electricista-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
