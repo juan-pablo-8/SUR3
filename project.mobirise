@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "oficios.html",
+    "currentPage": "comercios.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -3590,7 +3590,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#41a85f",
+              "color": "#b8312f",
               "text-align": "right"
             }
           },
@@ -3605,7 +3605,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "OFICIOS",
+          "title": "&nbsp;COMERCIOS",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
