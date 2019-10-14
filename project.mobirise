@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "comercios.html",
+    "currentPage": "index.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -66,20 +66,20 @@
           "_anchor": "msg-box8-3l",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": "3",
-            "parallax": true,
+            "paddingBottom": "5",
+            "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/web-foto-2000x922.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/encabezado-2000x1340.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.1",
             "overlayColor": "#f7da64",
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": false
           },
@@ -183,57 +183,6 @@
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-sun mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(122, 198, 115);\"></span>PUBLINET</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comercios.html\" aria-expanded=\"false\">COMERCIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"oficios.html\" aria-expanded=\"false\">OFICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "30px",
-              "color": "#f99d52"
-            },
-            "B": {
-              "color": "#3d8eb9",
-              "font-size": "20px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "PUBLICITE Y SEA VISTO POR MILES DE PERSONAS...",
-          "meta": "<b>Avellaneda - Gerli - Lanus - Remedios de Escalada - Banfield - Lomas de Zamora - Temperley</b><br><b>- Adrogue - Burzaco - Claypole - &nbsp;Solano - Quilmes - Bernal - Ezpeleta - Berazategui - Florencio Varela - Turdera - Llavallol - Luis Guillon - Monte Grande<br></b><br><b>PONGASE EN CONTACTO CON NOSOTROS A TRAVES DEL ....</b><br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            "SPAN": {
-              "font-size": "16px"
-            },
-            ".btn": {
-              "font-size": "17px",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700"
-            }
-          },
-          "_anchor": "buttons1-3k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#303030"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>publinet@yahoo.com.ar</a>"
         },
         {
           "_tags": [
