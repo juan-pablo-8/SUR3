@@ -69,7 +69,7 @@
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/encabezado-2000x1340.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/encabezado-de-ajuste-2000x832.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
