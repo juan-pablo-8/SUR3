@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "profesionales-abogados.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -40,53 +40,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#e25041",
-              "font-size": "84px"
-            },
-            ".lead P": {
-              "color": "#f3c649",
-              "font-size": "25px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".btn": {
-              "font-size": "16px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-3l",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/encabezado-de-ajuste-2-2000x800.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#f7da64",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "PUBLINET",
-          "text": "<p><b>PUBLICITE Y SEA VISTO POR MILES DE PERSONAS...</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>15 7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>publinet@yahppcas</a>"
-        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1700,7 +1653,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "3",
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -1709,7 +1662,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-gastronoma-artesanales-naturales-desayunos-600x136.png",
+              "src": "@PROJECT_PATH@/assets/images/1-600x451.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1725,7 +1678,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner-gastronoma-parrillas-600x136.png",
+              "src": "@PROJECT_PATH@/assets/images/aviso-azul-600x451.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1741,7 +1694,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/banner_profesionales_contadores-p%C3%BAblicos_alberto-g%C3%B3mez-contador-p%C3%BAblico-600x136.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aviso-azul-600x451.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
