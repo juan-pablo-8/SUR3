@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -490,6 +492,38 @@ h6,
 }
 #ext_menu-w .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#msg-box8-6q .mbr-section-title,
+#msg-box8-6q p {
+  color: #fff;
+}
+#header3-6s .mbr-section-title,
+#header3-6s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6s SMALL {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  color: #ffffff;
+}
+#header3-6s H3 {
+  color: #fff500;
+  font-size: 46px;
+}
+#header3-6u .mbr-section-title,
+#header3-6u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6u H3 {
+  font-size: 30px;
+  color: #75c5f0;
+}
+#buttons1-6t .btn {
+  font-size: 15px;
+}
+#msg-box8-6r .mbr-section-title,
+#msg-box8-6r p {
+  color: #fff;
 }
 #header3-3p .mbr-section-title,
 #header3-3p .mbr-section-subtitle {

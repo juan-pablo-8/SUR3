@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "profesionales-abogados.html",
+    "currentPage": "index.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 237,
+    "uniqCompNum": 247,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -138,6 +138,146 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comercios.html\" aria-expanded=\"false\">COMERCIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"oficios.html\" aria-expanded=\"false\">OFICIOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"profesionales.html\" aria-expanded=\"false\">PROFESIONALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BOTON</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6q",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2400-px-1-2000x2000.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#fff500",
+              "font-size": "46px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#009240",
+            "showMeta": true
+          },
+          "title": "PUBLICITE Y SEA VISTO POR MILES DE PERSONAS",
+          "meta": "AVELLANEDA - GERLI - LANUS - REMEDIOS DE ESCALADA - BANFIELD - LOMAS DE ZAMORA - TEMPERLEY - ADROGUE - BURZACO - CLAYPOLE - SOLANO - SAARANDI - WILDE - BERNAL - QUILMES - EZPELETA - BERAZATEGUI - FCIO VARELA - TURDERA - LAVALLOL - LUIS GUILLON - MTE GRANDE"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px",
+              "color": "#75c5f0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#009240",
+            "showMeta": false
+          },
+          "title": "PONGASE EN CONTACO CON NOSOTROS A TRAVES DEL ...",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-6t",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#009240"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a>  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mailto:publinet@gmail.com?Subject=Contacto%20PubliNET&quot;\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>publinet@gmail.com</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-6r",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2400-px-3-2000x2000.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -183,7 +323,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/corralon_los_hermanos-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/corralon-los-hermanos-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -385,7 +525,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nacho_computacion-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/nacho-computacion-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -401,7 +541,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/floria_regalos-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/floria-regalos-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -510,7 +650,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/buzones%20marcelo-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/buzones-marcelo-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -603,7 +743,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full_contact-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/full-contact-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -619,7 +759,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fundas%20berni-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/fundas-berni-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -821,7 +961,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aire_aconcionado_alejandro-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/aire-aconcionado-alejandro-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -837,7 +977,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/membranas%20horacio-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/membranas-horacio-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -930,7 +1070,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/libreria%20level-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/libreria-level-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -946,7 +1086,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ingles%20boston-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/ingles-boston-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1039,7 +1179,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/peluqueria%20marisol-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/peluqueria-marisol-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1055,7 +1195,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/service%20tv-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/service-tv-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1148,7 +1288,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/berni%20secarropas-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/berni-secarropas-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1164,7 +1304,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/plomero%20torrez-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/plomero-torrez-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1273,7 +1413,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dj_pasaje-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/dj-pasaje-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1366,7 +1506,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/javier_martinez-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/javier-martinez-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1382,7 +1522,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/azul_aluminio-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/azul-aluminio-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2038,7 +2178,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alba%C3%91il-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/albail-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2131,7 +2271,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chapa%20y%20pintura-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/chapa-y-pintura-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2147,7 +2287,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/destapaciondeca%C3%91erias-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/destapaciondecaerias-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2930,7 +3070,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/analisis_clinicos-1-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/analisis-clinicos-1-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4681,7 +4821,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hierrosca%C3%B1os-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/hierroscaos-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5213,7 +5353,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pa%C3%B1alerayarticulosparabb-600x283.png",
+              "src": "@PROJECT_PATH@/assets/images/paalerayarticulosparabb-600x283.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
