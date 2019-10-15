@@ -6,23 +6,23 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#faaf40",
+        "primaryColor": "#ed2511",
         "secondaryColor": "#bfcecb",
         "successColor": "#41a85f",
         "infoColor": "#3d8eb9",
         "warningColor": "#f3c649",
-        "dangerColor": "#f3c649",
-        "titleFont": "Source Sans Pro",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": true,
+        "dangerColor": "#e25041",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Arimo",
+        "textFont": "Lato",
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 250,
+    "uniqCompNum": 255,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -149,11 +149,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-6q",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2200-encabezado-publinet-top-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2200-encabezado-sur3323232323-1-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -179,12 +179,12 @@
             "SMALL": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "22px",
+              "font-size": "16px",
               "color": "#ffffff"
             },
             "H3": {
               "color": "#fff500",
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -193,8 +193,8 @@
           "_name": "header3",
           "_anchor": "header3-6s",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#009240",
             "showMeta": true
           },
@@ -207,7 +207,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "30px",
+              "font-size": "25px",
               "color": "#75c5f0"
             }
           },
@@ -230,18 +230,127 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-6t",
+          "_anchor": "buttons1-70",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#009240"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a>  <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"mailto:publinet@gmail.com?Subject=Contacto%20PubliNET&quot;\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>publinet@gmail.com</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>PUBLINET@GMAIL.COM</a>",
           "_styles": {
             ".btn": {
-              "font-size": "15px"
+              "font-size": "18px"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-72",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/federacion-patronal-1-600x152.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/corralon-los-hermanos-600x152.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "fumigaciones-1.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -285,11 +394,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-6x",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2200-encabezado-publinet-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2200-encabezado-sur3323232323-1-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -319,11 +428,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-6r",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2200-encabezado-publinet-2000x2000.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/2200-encabezado-sur12121212123333-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -348,7 +457,7 @@
           "_name": "features3",
           "_anchor": "features3-24",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -371,7 +480,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/federacion-patronal-1-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/federacion-patronal-1-600x1520.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -387,7 +496,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/corralon-los-hermanos-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/corralon-los-hermanos-600x1521.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1677,6 +1786,115 @@
           },
           "title": "PUBLINET&nbsp;",
           "meta": "<b>15-7026-0001 / 15-7026-001 / E- MAIL: PUBLINET@YAHOO.COM.AR</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-71",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/federacion-patronal-1-600x152.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/corralon-los-hermanos-600x152.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "fumigaciones-1.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
