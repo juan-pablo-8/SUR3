@@ -10,6 +10,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -447,11 +449,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-w .link {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 #ext_menu-w .dropdown-item,
 #ext_menu-w .nav-dropdown-sm .link {
-  font-size: 1.300rem;
+  font-size: 1.191rem;
 }
 #ext_menu-w .link:hover,
 #ext_menu-w .dropdown-item:hover,
@@ -527,9 +529,11 @@ h6,
 }
 #buttons1-7b .btn {
   font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
 }
 #buttons1-7b SPAN {
-  font-size: 18px;
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
 }
 #header3-3p .mbr-section-title,
 #header3-3p .mbr-section-subtitle {
@@ -607,7 +611,7 @@ h6,
 }
 #ext_menu-55 .link[aria-expanded="true"],
 #ext_menu-55 .dropdown-item[aria-expanded="true"] {
-  color: #faaf40!important;
+  color: #ed2511!important;
 }
 #footer1-56 P {
   color: #ffffff;
