@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -479,7 +480,7 @@ h6,
 }
 #ext_menu-w .link[aria-expanded="true"],
 #ext_menu-w .dropdown-item[aria-expanded="true"] {
-  color: #faaf40!important;
+  color: #ed2511!important;
 }
 #ext_menu-w.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -516,6 +517,37 @@ h6,
   color: #75c5f0;
 }
 #buttons1-70 .btn {
+  font-size: 18px;
+}
+#slider-78 H2 {
+  color: #fac51c;
+  font-size: 30px;
+}
+#slider-78 P {
+  color: #3d8eb9;
+}
+#header3-79 .mbr-section-title,
+#header3-79 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-79 SMALL {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+}
+#header3-79 H3 {
+  color: #fff500;
+  font-size: 36px;
+}
+#header3-7a .mbr-section-title,
+#header3-7a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7a H3 {
+  font-size: 25px;
+  color: #75c5f0;
+}
+#buttons1-7b .btn {
   font-size: 18px;
 }
 #header3-3p .mbr-section-title,
