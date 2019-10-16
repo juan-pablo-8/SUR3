@@ -542,6 +542,15 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#fac51c",
+              "font-size": "30px"
+            },
+            "P": {
+              "color": "#3d8eb9"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "0",
@@ -606,20 +615,11 @@
               }
             ],
             "fullScreen": false,
-            "bgColor": "#fff",
+            "bgColor": "#1f6c41",
             "showBullets": false
           },
           "_anchor": "slider-78",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "color": "#fac51c",
-              "font-size": "30px"
-            },
-            "P": {
-              "color": "#3d8eb9"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -645,7 +645,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#009240",
+            "bgColor": "#1f6c41",
             "showMeta": true
           },
           "title": "PUBLICITE Y SEA VISTO POR MILES DE PERSONAS",
@@ -669,7 +669,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#009240",
+            "bgColor": "#1f6c41",
             "showMeta": false
           },
           "title": "PONGASE EN CONTACO CON NOSOTROS A TRAVES DEL ...",
@@ -683,15 +683,18 @@
           "_styles": {
             ".btn": {
               "font-size": "18px"
+            },
+            "SPAN": {
+              "font-size": "18px"
             }
           },
           "_anchor": "buttons1-7b",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgColor": "#009240"
+            "bgColor": "#1f6c41"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>PUBLINET@GMAIL.COM</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://wa.me/5491170260001\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\"></span>15-7026-0001</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>PUBLINET@GMAIL.COM</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"index.html#header3-7a\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
           "_tags": [

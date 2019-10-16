@@ -550,6 +550,9 @@ h6,
 #buttons1-7b .btn {
   font-size: 18px;
 }
+#buttons1-7b SPAN {
+  font-size: 18px;
+}
 #header3-3p .mbr-section-title,
 #header3-3p .mbr-section-subtitle {
   text-align: center;
