@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
@@ -419,6 +420,13 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#slider-78 H2 {
+  color: #fac51c;
+  font-size: 30px;
+}
+#slider-78 P {
+  color: #3d8eb9;
+}
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -491,22 +499,22 @@ h6,
 #ext_menu-w .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#msg-box8-6q .mbr-section-title,
-#msg-box8-6q p {
-  color: #fff;
-}
 #header3-6s .mbr-section-title,
 #header3-6s .mbr-section-subtitle {
   text-align: center;
 }
 #header3-6s SMALL {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #ffffff;
+  text-align: right;
 }
 #header3-6s H3 {
   color: #fff500;
   font-size: 36px;
+}
+#header3-6s B {
+  font-size: 19px;
 }
 #header3-6u .mbr-section-title,
 #header3-6u .mbr-section-subtitle {
@@ -515,37 +523,7 @@ h6,
 #header3-6u H3 {
   font-size: 25px;
   color: #75c5f0;
-}
-#buttons1-70 .btn {
-  font-size: 18px;
-}
-#slider-78 H2 {
-  color: #fac51c;
-  font-size: 30px;
-}
-#slider-78 P {
-  color: #3d8eb9;
-}
-#header3-79 .mbr-section-title,
-#header3-79 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-79 SMALL {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  color: #ffffff;
-}
-#header3-79 H3 {
-  color: #fff500;
-  font-size: 36px;
-}
-#header3-7a .mbr-section-title,
-#header3-7a .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-7a H3 {
-  font-size: 25px;
-  color: #75c5f0;
+  font-family: 'Ubuntu', sans-serif;
 }
 #buttons1-7b .btn {
   font-size: 18px;
