@@ -681,7 +681,7 @@ h6,
 }
 #ext_menu-5l .link[aria-expanded="true"],
 #ext_menu-5l .dropdown-item[aria-expanded="true"] {
-  color: #faaf40!important;
+  color: #ed2511!important;
 }
 #header3-5m .mbr-section-title,
 #header3-5m .mbr-section-subtitle {
@@ -837,4 +837,73 @@ h6,
 }
 #footer1-5y P {
   color: #ffffff;
+}
+#content5-7h .mbr-section-title,
+#content5-7h p {
+  color: #fff;
+}
+#content5-7h .mbr-section-title {
+  text-align: center;
+  color: #fac51c;
+}
+#ext_menu-7i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-7i .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-7i .navbar-toggler {
+  color: #41a85f;
+}
+#ext_menu-7i .close-icon::before,
+#ext_menu-7i .close-icon::after {
+  background-color: #41a85f;
+}
+#ext_menu-7i .link,
+#ext_menu-7i .dropdown-item {
+  color: #41a85f;
+}
+#ext_menu-7i .link {
+  font-size: 1.1rem;
+}
+#ext_menu-7i .dropdown-item,
+#ext_menu-7i .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#ext_menu-7i .link:hover,
+#ext_menu-7i .dropdown-item:hover,
+#ext_menu-7i .link:focus,
+#ext_menu-7i .dropdown-item:focus {
+  color: #ed2511;
+}
+#ext_menu-7i .link[aria-expanded="true"],
+#ext_menu-7i .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-7i .nav-dropdown-sm .link:focus,
+#ext_menu-7i .nav-dropdown-sm .link:hover,
+#ext_menu-7i .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-7i .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-7i .navbar,
+#ext_menu-7i .nav-dropdown-sm,
+#ext_menu-7i .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-7i .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-7i .bg-color.transparent .link {
+  color: #41a85f;
+  transition: none;
+}
+#ext_menu-7i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-7i .bg-color.transparent.opened .link:hover,
+#ext_menu-7i .bg-color.transparent.opened .link:focus {
+  color: #ed2511;
+}
+#ext_menu-7i .link[aria-expanded="true"],
+#ext_menu-7i .dropdown-item[aria-expanded="true"] {
+  color: #ed2511!important;
 }
