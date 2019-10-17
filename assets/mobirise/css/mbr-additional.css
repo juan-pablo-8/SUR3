@@ -552,6 +552,10 @@ h6,
 #content5-54 p {
   color: #fff;
 }
+#content5-54 .mbr-section-title I {
+  color: #e25041;
+  text-align: left;
+}
 #ext_menu-55 .hide-buttons .nav-btn {
   display: none !important;
 }
