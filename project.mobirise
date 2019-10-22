@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "profesionales.html",
+    "currentPage": "profesionales-agrimensor.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -2048,7 +2048,8 @@
             },
             ".mbr-section-title I": {
               "color": "#e25041",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -7206,7 +7207,7 @@
             ".mbr-section-title I": {
               "color": "#f3c649",
               "text-align": "left",
-              "font-size": "30px"
+              "font-size": "25px"
             }
           },
           "_tags": [
