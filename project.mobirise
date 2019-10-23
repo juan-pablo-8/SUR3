@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "profesionales.html",
+    "currentPage": "profesionales-arquitectos.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -7876,7 +7876,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/arquitectura-plano-2000x1000.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8048,7 +8048,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/ayc-600x156.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8141,7 +8141,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/chd-600x156.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8157,7 +8157,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aviso-verde-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/arquint-600x156.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
