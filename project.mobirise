@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "profesionales-contadores.html",
+    "currentPage": "profesionales.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -3749,7 +3749,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "profesionales-contadores.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
