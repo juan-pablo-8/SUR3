@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "profesionales-enfermeria.html",
+    "currentPage": "profesionales.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -3815,7 +3815,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "profesionales-enfermeria.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
