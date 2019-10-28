@@ -1372,7 +1372,7 @@ h6,
   font-size: 25px;
 }
 #content5-8n .mbr-section-title SPAN {
-  color: #2b0680;
+  color: #e25041;
 }
 #ext_menu-8o .hide-buttons .nav-btn {
   display: none !important;
@@ -1436,5 +1436,81 @@ h6,
   color: #ed2511!important;
 }
 #footer1-8p P {
+  color: #ffffff;
+}
+#content5-8t .mbr-section-title,
+#content5-8t p {
+  color: #fff;
+}
+#content5-8t .mbr-section-title I {
+  color: #faaf40;
+  text-align: left;
+  font-size: 25px;
+}
+#content5-8t .mbr-section-title SPAN {
+  color: #e25041;
+}
+#ext_menu-8u .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-8u .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-8u .navbar-toggler {
+  color: #41a85f;
+}
+#ext_menu-8u .close-icon::before,
+#ext_menu-8u .close-icon::after {
+  background-color: #41a85f;
+}
+#ext_menu-8u .link,
+#ext_menu-8u .dropdown-item {
+  color: #41a85f;
+}
+#ext_menu-8u .link {
+  font-size: 1.1rem;
+}
+#ext_menu-8u .dropdown-item,
+#ext_menu-8u .nav-dropdown-sm .link {
+  font-size: 1.191rem;
+}
+#ext_menu-8u .link:hover,
+#ext_menu-8u .dropdown-item:hover,
+#ext_menu-8u .link:focus,
+#ext_menu-8u .dropdown-item:focus {
+  color: #ed2511;
+}
+#ext_menu-8u .link[aria-expanded="true"],
+#ext_menu-8u .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-8u .nav-dropdown-sm .link:focus,
+#ext_menu-8u .nav-dropdown-sm .link:hover,
+#ext_menu-8u .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-8u .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-8u .navbar,
+#ext_menu-8u .nav-dropdown-sm,
+#ext_menu-8u .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-8u .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-8u .bg-color.transparent .link {
+  color: #41a85f;
+  transition: none;
+}
+#ext_menu-8u .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-8u .bg-color.transparent.opened .link:hover,
+#ext_menu-8u .bg-color.transparent.opened .link:focus {
+  color: #ed2511;
+}
+#ext_menu-8u .link[aria-expanded="true"],
+#ext_menu-8u .dropdown-item[aria-expanded="true"] {
+  color: #ed2511!important;
+}
+#footer1-8v P {
   color: #ffffff;
 }
