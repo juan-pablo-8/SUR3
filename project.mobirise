@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "profesionales-geriatricos.html",
+    "currentPage": "profesionales.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -3879,7 +3879,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "profesionales-geriatricos.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -9852,7 +9852,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fonoaudiologa-2000x1285.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gastroenterologia-encabezado-2000x1000.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
