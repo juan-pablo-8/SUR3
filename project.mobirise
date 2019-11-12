@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "profesionales-pedicuras.html",
+    "currentPage": "profesionales.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -4081,7 +4081,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "profesionales-pedicuras.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
