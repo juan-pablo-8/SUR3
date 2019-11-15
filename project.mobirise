@@ -4129,7 +4129,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "profesionales-tarotvidente.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -14425,7 +14425,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/psicologia-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tarot-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -14558,7 +14558,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/abel-600x156.png",
+              "src": "@PROJECT_PATH@/assets/images/angelica-600x452.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14574,7 +14574,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cauteruccio-600x452.png",
+              "src": "@PROJECT_PATH@/assets/images/abel-600x452.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14590,7 +14590,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ximenacorbacho-600x452.png",
+              "src": "@PROJECT_PATH@/assets/images/avenidanazca-600x452.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14606,7 +14606,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/zulema-600x452.png",
+              "src": "@PROJECT_PATH@/assets/images/tarotmarron-600x304.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
