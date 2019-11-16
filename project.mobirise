@@ -14955,7 +14955,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ciudadcristal-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/yaninalepere-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
