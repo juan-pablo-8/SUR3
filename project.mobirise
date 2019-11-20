@@ -15094,7 +15094,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aire-acondicionadoparaencabezado-2000x1130.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aireacondicionado3-2000x1485.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -15227,7 +15227,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aire-aconcionado-alejandro-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/delta-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -15243,7 +15243,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/delta-600x152.png",
+              "src": "@PROJECT_PATH@/assets/images/aire-aconcionado-alejandro-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
