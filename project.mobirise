@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "oficios-albañil.html",
+    "currentPage": "oficios.html",
     "name": "PUBLINET",
     "theme": {
       "name": "mobirise3",
@@ -2830,7 +2830,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "profesionales-arquitectos.html",
+              "link": "oficios-albañil.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
